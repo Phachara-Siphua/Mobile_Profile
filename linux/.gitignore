@@ -1,0 +1,6 @@
+.dart_tool/
+build/
+node_modules/
+.flutter-plugins-dependencies
+firebase.json
+*.iml
